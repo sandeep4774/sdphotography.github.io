@@ -1,0 +1,11 @@
+state: enabled
+email: sandeep4774@yahoo.com
+fullname: 'Sandeep Desai'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$BMKFgwy4ZSly5ekbtEVfaOYyawO2HKJOeZM72KJqNH7z/wJOxEXAe

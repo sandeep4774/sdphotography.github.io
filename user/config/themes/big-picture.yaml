@@ -1,0 +1,19 @@
+enabled: true
+footer_icons:
+  1:
+    icon: fa-instagram
+    link: 'https://www.instagram.com/sandeep4774'
+  2:
+    icon: fa-facebook
+    link: 'https://www.facebook.com/sandeep4774'
+  3:
+    icon: fa-linkedin
+    link: 'https://www.linkedin.com/sandeep4774'
+footer_items:
+  -
+    item: '&copy; Sandeep Desai'
+  -
+    item: 'Design: <a href="http://html5up.net">HTML5 UP</a>'
+  -
+    item: 'Images: <a href="https://www.instagram.com/sandeep4774">Instagram</a>'
+
